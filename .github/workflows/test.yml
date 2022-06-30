@@ -38,8 +38,6 @@ jobs:
           [
             dev-tools,
             babel-preset-cli,
-            config,
-            config-plugins,
             dev-server,
             expo-cli,
             create-expo-app,
@@ -48,7 +46,6 @@ jobs:
             json-file,
             metro-config,
             package-manager,
-            prebuild-config,
             pkcs12,
             plist,
             pwa,
